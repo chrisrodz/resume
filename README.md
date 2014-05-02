@@ -1,4 +1,4 @@
 resume
 ======
 
-An up to date version of my resume
+My personal resume
